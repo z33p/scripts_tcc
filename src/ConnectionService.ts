@@ -1,4 +1,4 @@
-import { Connection, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
+import { Connection } from "@solana/web3.js";
 import fs from 'mz/fs';
 import os from "os";
 import path from "path";
